@@ -1,4 +1,4 @@
-![Image alt](hhttp://www.gridgain.com/images/logo/logo_mid.png)
+![Image alt](http://www.gridgain.com/images/logo/logo_mid.png)
 
 # Архитектура [ignite] & Реверс инжениринг 
 https://drive.google.com/drive/folders/1dFyHn3-PqFOXjY6ivSgpwP00WFZ_K3Dc
