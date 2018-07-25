@@ -1,8 +1,21 @@
-<center>
-![GridGain Logo](http://www.gridgain.com/images/logo/logo_mid.png "GridGain Logo")
-</center>
+![Image alt](hhttp://www.gridgain.com/images/logo/logo_mid.png)
 
-<div style="height: 5px"></div>
+# Архитектура [ignite] & Реверс инжениринг 
+https://drive.google.com/drive/folders/1dFyHn3-PqFOXjY6ivSgpwP00WFZ_K3Dc
+
+# Реверс инжениринг в Enterprise Architect (EA) в "Лаборатории Касперского"
+https://www.youtube.com/watch?v=pCHQZwvgxNM
+
+![Image alt](https://roem.ru/wp-content/uploads/2018/04/kitajkasperskayachubajs.jpg)
+
+"Президент Сбербанка Герман Греф назвал неконкурентоспособной IT-инфраструктуру крупнейшего банка страны. 
+Сбербанк с помощью компании GridGain полностью поменяет платформу, пообещал Греф
+GridGain развивает (http://www.gridgain.com/) одноимённую СУБД для обработки больших объёмов данных в оперативной памяти 
+(In-Memory Data Grid), написанную на языке Java.
+СУБД доступна в виде коммерческого продукта и свободнораспространяемой Community версии, 
+код которой опубликован (https://github.com/gridgain/gridgain) пол лицензией Apache 2.0. 
+Продукты GridGain  базируются на наработках свободного проекта Apache Ignite (http://ignite.apache.org/), 
+который был инициирован на основе переданных Фонду Аpache исходных текстов GridGain.
 
 ## GridGain In-Memory Data Fabric
 <blockquote>In-Memory Computing uses high-performance, integrated, distributed memory systems to compute and transact on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
